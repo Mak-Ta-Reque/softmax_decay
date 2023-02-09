@@ -1,0 +1,5 @@
+gb telea sort morf
+gb telea sort lerf
+ig telea sort morf
+ig telea sort lerf
+ig linear sort lerf
